@@ -1,0 +1,2 @@
+# slideshpw
+imagens alternadas automaticamente 
